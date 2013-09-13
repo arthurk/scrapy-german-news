@@ -1,0 +1,2 @@
+Scrapy==0.18.2
+simhash==0.1.0
